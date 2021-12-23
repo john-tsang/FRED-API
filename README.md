@@ -1,4 +1,4 @@
-# FRED-API (Read-me and in file documentation in progress)
+# FRED-API
 
 ## Description <a name="Description"></a>
 This API contains functions to retrieve economic time-series from the Federal Reserve Economic Data API and store the data using SQL database.
